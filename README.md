@@ -1,4 +1,4 @@
-# CodeChef-recruitment-task
+# Recruitment-task
 Hardware task
 Drive Video link for working project:
 
